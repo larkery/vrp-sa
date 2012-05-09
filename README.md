@@ -12,3 +12,4 @@ This is all code which I developed for my PhD thesis; it has a few major parts
    * A neighbourhood list implementation
  * A stochastic Clarke-Wright implementation in h.vrp.stochasticsavings
  * A traditional and enhanced CW implementation in h.solcons
+ * A GUI which can show any of these solvers running interactively
